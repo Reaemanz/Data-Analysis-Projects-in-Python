@@ -3,8 +3,8 @@ Data Analysis Projects Repository
 This repository contains a collection of data analysis projects that I have completed using Python. Each project includes a Jupyter Notebook containing the code and explanations of the analysis performed.
 
 Projects Included
-Project 1: Exploratory Data Analysis of Sales Data
-Project 2: Customer Segmentation using K-Means Clustering
+Project 1: Advanced Google Trends Data Analysis projects: Resampling and data visualisation
+Project 2: Google play store app Analytics
 Project 3: Predicting House Prices with Linear Regression
 Project 4: Text Classification with Naive Bayes
 Installation and Setup
