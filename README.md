@@ -5,7 +5,7 @@ This repository contains a collection of data analysis projects that I have comp
 Projects Included
 Project 1: Advanced Google Trends Data Analysis projects: Resampling and data visualisation
 Project 2: Google play store app Analytics
-Project 3: Predicting House Prices with Linear Regression
+Project 3: Supply Chain Analysis
 Project 4: Text Classification with Naive Bayes
 Installation and Setup
 To run these projects, you will need to have Python and Jupyter Notebook installed on your machine. You can install both using the Anaconda distribution.
